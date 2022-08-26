@@ -17,6 +17,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+
 This project is a clone of Twitter I created to showcase my ability to code in Swift and use the Firebase api. The features of this app include: User Authorization, Creating and posting Tweets, Following other Users and seeing their posts, and Liking Posts. 
 
 
@@ -33,28 +34,14 @@ At this stage users can create accounts or login using Firebase's Auth library. 
 <!-- Feed and posts -->
 ## Feed
 
-The feed displays tweets of prople the user follows as shown. Data is fetched from firebase and displayed with the post module. Users can also 
+The feed displays tweets of prople the user follows as shown. Data is fetched from firebase and displayed with the post module.
 
 
 <!-- Search -->
 ## Search
 
-In the search page users can search for other accounts. 
+In the search page users can search for other accounts.
 
-
-
-<!-- Future -->
-## Future features to be added
-
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
